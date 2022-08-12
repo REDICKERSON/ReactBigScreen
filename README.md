@@ -1,1 +1,1 @@
-This is a movie search engine called BigScreen, that I created using React and utilizes a movie API to return searched movie information. This was created using React, React-Dom, React-scripts, and web-vitals.# ReactBigScreen
+This is a movie search engine called BigScreen, that I created using React and utilizes a movie API to return searched movie information. This was created using React, React-Dom, React-scripts, and web-vitals.
